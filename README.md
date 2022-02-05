@@ -6,6 +6,9 @@ I'm working on: A private 1.12.2 client that actually has some decent code in it
 I have worked on: Xeno Client - A now open source 1.12.2 client, with some awful code in it. (Please don't judge me on that code).
 
 I want to learn either Kotlin or C# in the near future.
+
+<p> <img src="https://komarev.com/ghpvc/?username=wolfsurge&color=8E64D0" alt="wolfsurge" /> </p> (started Feburary 5th, 2022)
+
 <!--
 **Wolfsurge/Wolfsurge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
