@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Wolfsurge. I code in Java, and also Python (but I'm significantly worse at python). I like to make block game hacks in my spare time. Thats basically it.
 
-I'm working on: A private 1.12.2 client that actually has some decent code in it.
+I'm working on: A private 1.12.2 client that actually has some decent code in it. Also kinda working on Cosmos.
 
 I have worked on: Xeno Client - A now open source 1.12.2 client, with some awful code in it. (Please don't judge me on that code).
 
