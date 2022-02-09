@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hiya 👋
 I'm Wolfsurge. I code in Java, and also Python (but I'm significantly worse at python). I like to make block game hacks in my spare time. Thats basically it.
 
 I'm working on: A private 1.12.2 client that actually has some decent code in it. Also kinda working on Cosmos.
