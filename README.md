@@ -7,6 +7,8 @@ I have worked on: Xeno Client - A now open source 1.12.2 client, with some awful
 
 I want to learn either Kotlin or C# in the near future.
 
+ 
+​[![​Stats](https://github-readme-stats.vercel.app/api?username=Wolfsurge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)             [![​oo oo aa aa​](https://github-readme-stats.vercel.app/api/top-langs/?username=master7720&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <p> <img src="https://komarev.com/ghpvc/?username=wolfsurge&color=8E64D0" alt="wolfsurge" /> </p> (started Feburary 5th, 2022)
 
 <!--
