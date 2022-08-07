@@ -1,6 +1,8 @@
 ### Hiya 👋
 I'm Surge. I'm a 14 year old 'developer' who works in primarily Java & Kotlin, with basic experience in Python. I'm (kinda) learning Rust. I like to make block game hacks in my spare time.
 
+You can contact me on Discord - Surge#7456
+
 I'm working on: Paragon - A 1.12.2 client that actually has some decent code in it. Also kinda working on Cosmos.
 
 I am learning Kotlin and Rust.
