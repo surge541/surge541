@@ -5,7 +5,9 @@ You can contact me on Discord - Surge#7456
 
 I've pretty much quit anarchy at this point. I don't find it fun anymore, but here's what I've worked on:
 
-I've worked on: Paragon, and Cosmos
+The utility mods I've worked on are Paragon, Cosmos, and a 1.8 paid client, Monsoon.
+
+I also make various toy projects, I suggest you check them out :D
  
 ​[![​Stats](https://github-readme-stats.vercel.app/api?username=wolfsurge&theme=dark)](https://github.com/anuraghazra/github-readme-stats)             
 
