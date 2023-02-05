@@ -1,5 +1,5 @@
 ### Hiya 👋
-I'm Surge. I'm a 14 year old 'developer' who works in primarily Java & Kotlin, with basic experience in Python. I'm (kinda) learning Rust.
+I'm Surge. I'm a 14 year old 'developer' who works in primarily Java & Kotlin, with basic experience in Python.
 
 You can contact me on Discord - Surge#7456
 
