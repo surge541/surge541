@@ -1,5 +1,5 @@
 ### Hiya 👋
-I'm Surge. I'm a 16 year old 'developer' who works in primarily Java & Kotlin, with basic experience in Python.
+I'm Ianto, or surge, depending on where you know me from. I'm a 16 year old 'developer' who works in primarily Java & Kotlin, with basic experience in Python.
 
 You can contact me on Discord - surge541
 
